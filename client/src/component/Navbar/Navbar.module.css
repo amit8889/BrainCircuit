@@ -1,0 +1,14 @@
+.linkHove {
+    border-bottom: 1px solid white;
+    transition:.4s ease-out;
+
+}
+
+.linkHove:hover {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+}
+
+.navbarBackgroud{
+    background-color: var(--navbar-backgroud);
+}
