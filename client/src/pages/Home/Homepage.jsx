@@ -11,7 +11,7 @@ const Homepage = () => {
 
         {
           
-          Array(10).fill(0).map((item, index) => (
+          Array(9).fill(0).map((item, index) => (
             <GroupCard key={index} />
             ))
           
