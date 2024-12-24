@@ -115,7 +115,7 @@ const ContactUs = () => {
                       </linearGradient>
                     </defs>
                   </svg>
-                  <a href="javascript:;" className="flex items-center mb-6">
+                  <a href="#" className="flex items-center mb-6">
                     <svg
                       width="30"
                       height="30"
@@ -135,7 +135,7 @@ const ContactUs = () => {
                       470-601-1911
                     </h5>
                   </a>
-                  <a href="javascript:;" className="flex items-center mb-6">
+                  <a href="#" className="flex items-center mb-6">
                     <svg
                       width="30"
                       height="30"
@@ -178,7 +178,7 @@ const ContactUs = () => {
                     </h5>
                   </a>
                   <div className="flex items-center justify-center border-t border-gray-100 pt-6">
-                    <a href="javascript:;" className="mr-6">
+                    <a href="#" className="mr-6">
                       <svg
                         width="31"
                         height="30"
@@ -199,7 +199,7 @@ const ContactUs = () => {
                         ></path>
                       </svg>
                     </a>
-                    <a href="javascript:;" className="mr-6">
+                    <a href="#" className="mr-6">
                       <svg
                         width="31"
                         height="30"
@@ -237,7 +237,7 @@ const ContactUs = () => {
                         </defs>
                       </svg>
                     </a>
-                    <a href="javascript:;" className="mr-6">
+                    <a href="#" className="mr-6">
                       <svg
                         width="31"
                         height="30"
